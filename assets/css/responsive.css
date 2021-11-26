@@ -1,0 +1,82 @@
+@media only screen and (max-width: 668px) {
+
+    section.top-area {
+        text-align: center;
+    }
+    
+    .top-right-social {
+        text-align: center;
+    }
+    section.about-section {padding: 50px 52px;}
+    
+    .single-about {
+        display: block;
+    }
+    
+    .about-icon {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    .about-right {
+        padding-left: 0;
+        padding-top: 50px;
+    }
+    
+    .skill-section {
+        padding: 25px 10px;
+    }
+
+    .faq-section {
+        margin-bottom: 50px;
+    }
+    
+    section.service-section {
+        padding: 50px 10px;
+    }
+    
+    .section-title-heading {padding-right: 45px;}
+    
+    .section-title-content {
+        margin-top: 30px;
+        text-align: center;
+    }
+    
+    section.team-section {
+        padding-right: 10px;
+        padding-left: 10px;
+    }
+    
+    .single-team-member {
+        margin-top: 20px;
+        height: 400px;
+    }
+    
+    footer.footer-section {
+        text-align: center;
+        padding-bottom: 30px;
+    }
+    .single-footer h4:after {
+        left: 40%;
+    }
+    
+    .single-footer {
+        margin-bottom: 40px;
+    }
+    
+    .single-footer-left {
+        padding-bottom: 30px;
+        padding-top: 0px;
+    }
+    
+    .footer-botom {
+        display: block;
+    }
+    .porfolio-menu li {
+        padding: 3px 10px;
+        font-size: 12px;
+    }
+    .single-portfolio {
+        padding: 0px 25px;
+    }
+}
